@@ -11,13 +11,15 @@ by PaLI-X [2] and aggregated using our Score-Based Multi-Probe Aggregation
 
 The csv files contain the most likely response from each aggregated output
 distribution. We also include the associated probability. The files use a
-semicolon delimiter. Please see our paper below for more details.
+semicolon delimiter. Please see [our paper](https://arxiv.org/abs/2311.17851)
+for more details.
 
 ## Citing this work
 
 To cite this work, please use:
 
-```@article{kabra2023evaluating,
+```
+@article{kabra2023evaluating,
   title={Evaluating VLMs for Score-Based, Multi-Probe Annotation of 3D Objects},
   author={Kabra, Rishabh and Matthey, Loic and Lerchner, Alexander and Mitra, Niloy J},
   journal={arXiv preprint arXiv:2311.17851},
