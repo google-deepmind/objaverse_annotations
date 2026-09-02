@@ -18,12 +18,15 @@ for more details.
 To cite this work, please use:
 
 ```
-@article{kabra2023evaluating,
-  title={Evaluating VLMs for Score-Based, Multi-Probe Annotation of 3D Objects},
-  author={Kabra, Rishabh and Matthey, Loic and Lerchner, Alexander and Mitra, Niloy J},
-  journal={arXiv preprint arXiv:2311.17851},
-  year={2023}
-}
+@inproceedings{ICML2024_LeveragingVLMs,
+ author = {Kabra, Rishabh and Matthey, Loic and Lerchner, Alexander and Mitra, Niloy J.},
+ title = {Leveraging VLM-Based Pipelines to Annotate 3D Objects},
+ booktitle = {Proceedings of the 41st International Conference on Machine Learning},
+ series = {Proceedings of Machine Learning Research},
+ publisher = {PMLR},
+ volume = {235},
+ year = {2024}
+}          
 ```
 
 ## References
