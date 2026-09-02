@@ -2,8 +2,7 @@
 
 This repo contains captions and property-specific annotations for 764K objects
 from the Objaverse 1.0 [1] dataset. We include the following outputs generated
-by PaLI-X [2] and aggregated using our Score-Based Multi-Probe Aggregation
-(SBMPA) method:
+by PaLI-X [2] and aggregated across multiple probes using ScoreAgg:
 
 1.  Captions: aggregated across 8 views per object.
 2.  Type annotations: aggregated across 8 views and 4 questions per object.
